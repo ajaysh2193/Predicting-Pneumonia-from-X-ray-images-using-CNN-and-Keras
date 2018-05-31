@@ -1,1 +1,1 @@
-# NIH-Chest-X-ray-using-CNN-and-Keras
+# Predicting Pneumonia from X-ray images using CNN and Keras
