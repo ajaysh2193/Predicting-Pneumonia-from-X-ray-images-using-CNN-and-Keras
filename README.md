@@ -9,7 +9,7 @@
 ## Source of Data
 - https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 - The dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia/Normal).
-- There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal).
+- There are 5,863 X-Ray images (JPEG) and 2 categories as '1' indicates to Pneumonia and '0' to Normal.
 ![labels](https://user-images.githubusercontent.com/24571705/40785506-3fc2c6aa-6506-11e8-9533-bec4696f9391.png)
 ## Results
 ### VGG16
